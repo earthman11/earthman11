@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @earthman11
-- 👀 I’m interested in REST API
-- 🌱 I’m currently learning GoLang
+- 👀 I’m interested in REST API an Telegram chat-bots
+- 🌱 I’m currently learning GoLang and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
